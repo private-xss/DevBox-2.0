@@ -2,7 +2,7 @@
 
 ## 项目简介
 
-这是一个现代化的开发者工具箱 Web 应用，提供多种实用的开发工具，全部在浏览器端运行，同时也已打包electron在Windows系统的安装包，请在release下载
+这是一个现代化的开发者工具箱 Web 应用，提供多种实用的开发工具，全部在浏览器端运行，目前打包了mac intel的app
 
 ## 技术栈
 
@@ -67,7 +67,8 @@ pnpm run tauri:build
 
 ## 公众号地址:
 
-![](https://github.com/Rabb1tQ/rabb1tq/blob/main/mp.jpg?raw=true)
+![image](https://github.com/user-attachments/assets/2cef64ff-2184-49bd-8e00-8f6caae5ed0d)
+
 
 ## 许可证
 
