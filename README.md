@@ -12,7 +12,8 @@
 
 ## 截图
 
-![image-20250723135501575](README.assets/image-20250723135501575.png)
+<img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/74e7b69b-d0f2-4c96-b57c-f8126ff5f13d" />
+
 
 ## 安装与运行
 
