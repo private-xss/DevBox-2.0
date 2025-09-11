@@ -1,4 +1,4 @@
-# 开发者工具箱
+# 白宝箱
 
 ## 项目简介
 
@@ -48,6 +48,7 @@ pnpm run tauri:build
   - YAML 工具
   - 文本对比
   - 文本去重
+  - 文本过滤
   - 进制转换
   - UUID 生成器
 - 网络工具
@@ -66,7 +67,8 @@ pnpm run tauri:build
 
 ## 公众号地址:
 
-![](https://github.com/Rabb1tQ/rabb1tq/blob/main/mp.jpg?raw=true)
+<img width="426" height="422" alt="image" src="https://github.com/user-attachments/assets/f2a73586-30f5-48f4-b80b-fb5aa816c550" />
+
 
 ## 许可证
 
